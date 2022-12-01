@@ -1,0 +1,17 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+
+.boton{
+    display: block;
+    text-decoration: none;
+    width: 10%;
+    text-align: center;
+    padding: .5rem;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(34, 34, 102);
+    font-size: 1rem;
+    color:white;
+    border-radius: 50px;
+}
